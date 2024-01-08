@@ -1,3 +1,0 @@
-Nabil.
-A software developer.
-Framework Knowledge; Laravel, Zend Framework, Code Igniter, Spring Boot, Quarkus Panache, Flutter, ReactJs

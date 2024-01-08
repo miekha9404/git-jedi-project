@@ -1,3 +1,6 @@
 Nabil
 Software Developer
-Laravel, Zend Framework, Code Igniter, Spring Boot, Quarkus Panache, Flutter, ReactJs
+Laravel, Zend Framework, Code Igniter, Spring Boot, Quarkus Panache, Flutter, ReactJs, Angular
+PHP, JAVA, DART, JavaScript, TypeScript, SQL
+Http Apache, Apache Tomcat, Zend Server, Xamp, Wamp
+Linux Server, Windows Server
